@@ -1,0 +1,7 @@
+D:\Programavimas\C#\MedicineAndVirusGenerator\MedicineAndVirusGenerator\bin\Release\MedicineAndVirusGenerator.exe.config
+D:\Programavimas\C#\MedicineAndVirusGenerator\MedicineAndVirusGenerator\bin\Release\MedicineAndVirusGenerator.exe
+D:\Programavimas\C#\MedicineAndVirusGenerator\MedicineAndVirusGenerator\bin\Release\MedicineAndVirusGenerator.pdb
+D:\Programavimas\C#\MedicineAndVirusGenerator\MedicineAndVirusGenerator\obj\Release\MedicineAndVirusGenerator.csproj.CoreCompileInputs.cache
+D:\Programavimas\C#\MedicineAndVirusGenerator\MedicineAndVirusGenerator\obj\Release\MedicineAndVirusGenerator.exe
+D:\Programavimas\C#\MedicineAndVirusGenerator\MedicineAndVirusGenerator\obj\Release\MedicineAndVirusGenerator.pdb
+D:\Programavimas\C#\MedicineAndVirusGenerator\MedicineAndVirusGenerator\obj\Release\MedicineAndVirusGenerator.csprojResolveAssemblyReference.cache
